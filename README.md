@@ -1,4 +1,4 @@
-# IMDB Movies Prediction
+# IMDB Movies Prediction with Neural Network
 
 Bu proje, IMDB filmleri veri kümesi kullanarak film puanlarını tahmin etmek için bir sinir ağı modeli oluşturur. Model, PyTorch kütüphanesi kullanılarak eğitilmiştir.
 ## İçindekiler
