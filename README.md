@@ -18,9 +18,9 @@ Gerekli paketleri yüklemek için aşağıdaki adımları izleyin:
 
 1. Gerekli Python paketlerini yükleyin:
     
-    bash
-        pip install pandas scikit-learn torch
-    
+'''bash
+     pip install pandas scikit-learn torch
+'''   
 - `pandas` - Veri işleme ve analiz için
 - `torch` - Derin öğrenme ve sinir ağı oluşturma için
 - `sklearn` - Veriyi ön işleme ve model değerlendirme için
@@ -32,10 +32,10 @@ Gerekli paketleri yüklemek için aşağıdaki adımları izleyin:
 Proje dosyasını çalıştırmak için:
 
 1. main.py dosyasını çalıştırın:
-    
+'''    
 bash
     python main.py
-
+'''
 ## Proje Açıklaması
 
 1. **Veri Yükleme ve Ön İşleme**
