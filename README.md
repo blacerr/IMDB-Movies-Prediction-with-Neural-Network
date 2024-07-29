@@ -11,6 +11,7 @@ Bu proje, IMDB filmleri veri kümesi kullanarak film puanlarını tahmin etmek i
 - [Sonuçlar](#sonuçlar)
 - [Katkıda Bulunma](#katkıda-bulunma)
 - [Lisans](#lisans)
+- [İletişim](#iletişim)
 
 ## Kurulum
 
@@ -82,10 +83,6 @@ python main.py
 - Modelin tahminleri `Sonuc.csv` dosyasına kaydedilir.
 - Sayısal değerler, orijinal kategorik değerlerle geri dönüştürülür.
 
-## İletişim
-
-Proje ile ilgili sorularınız için [uzayk204@gmail.com](mailto:uzayk204@gmail.com) adresinden iletişime geçebilirsiniz.
-
 ## Katkıda Bulunma
 
 Katkılarınızı memnuniyetle kabul ediyoruz! Lütfen katkıda bulunmadan önce [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını okuyun.
@@ -93,5 +90,9 @@ Katkılarınızı memnuniyetle kabul ediyoruz! Lütfen katkıda bulunmadan önce
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+
+## İletişim
+
+Proje ile ilgili sorularınız için [uzayk204@gmail.com](mailto:uzayk204@gmail.com) adresinden iletişime geçebilirsiniz.
 
 
