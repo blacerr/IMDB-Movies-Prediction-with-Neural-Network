@@ -57,8 +57,8 @@ y_test_tensor = torch.tensor(y_test.values, dtype=torch.float32).view(-1, 1)
 train_dataset = TensorDataset(X_train_tensor, y_train_tensor)
 test_dataset = TensorDataset(X_test_tensor, y_test_tensor)
 
-train_loader = DataLoader(train_dataset, batch_size=256, shuffle=True)
-test_loader = DataLoader(test_dataset, batch_size=256, shuffle=False)
+train_loader = DataLoader(train_dataset, batch_size=128, shuffle=True)
+test_loader = DataLoader(test_dataset, batch_size=128, shuffle=False)
 
 # Modeli tanımlama
 class NeuralNetwork(nn.Module):
